@@ -1,5 +1,5 @@
 from calc_func import do_addition , do_subtraction, do_multiplication , do_division
-
+from normal_division import do_normal_division
 
 def main():
     print("Welcome to the Calculator App")
